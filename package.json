@@ -1,7 +1,7 @@
 {
   "name": "demo-player",
   "version": "1.0.0",
-	"private": true,
+  "private": true,
   "description": "A Shadertoy-like display for WebGL demos. Currently a WIP",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/swax97/demo-player/issues"
   },
-  "homepage": "https://github.com/swax97/demo-player#readme"
+  "homepage": "https://github.com/swax97/demo-player#readme",
+  "dependencies": {
+    "serve-me": "^0.8.3"
+  }
 }
