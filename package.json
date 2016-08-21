@@ -1,0 +1,20 @@
+{
+  "name": "demo-player",
+  "version": "1.0.0",
+	"private": true,
+  "description": "A Shadertoy-like display for WebGL demos. Currently a WIP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swax97/demo-player.git"
+  },
+  "author": "RayL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swax97/demo-player/issues"
+  },
+  "homepage": "https://github.com/swax97/demo-player#readme"
+}
